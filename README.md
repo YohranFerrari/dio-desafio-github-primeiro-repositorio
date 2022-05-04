@@ -1,13 +1,10 @@
 
 
-<img src="![gft START #5 JAVA](https://user-images.githubusercontent.com/104649407/166611005-d20d2d55-f2e0-42be-bb43-5553884838af.png)
-" width="200" height="150" />
+<img src="https://user-images.githubusercontent.com/104649407/166611005-d20d2d55-f2e0-42be-bb43-5553884838af.png" width="200" height="150" align="left">
 
 # 			Desafio de projeto Git/Github da DIO
 
 ## Alguns comandos aprendidos nas aulas:
-
-​									
 
 - **git config** = Comando utilizado para configurar sua identidade de usuário que serão empregadas em cada commit.
 - **git init** = Comando utilizado para criar um novo projeto de git. 
