@@ -4,6 +4,8 @@
 
 # 			Desafio de projeto Git/Github da DIO
 
+O Desafio consiste em criar um primeiro repositório.
+
 ## Alguns comandos aprendidos nas aulas:
 
 - **git config** = Comando utilizado para configurar sua identidade de usuário que serão empregadas em cada commit.
